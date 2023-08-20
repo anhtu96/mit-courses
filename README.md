@@ -1,2 +1,2 @@
-# mit-courses
-For storing my solutions to some MIT OCW courses, during self-study period
+# MIT courses
+This repo stores my working solutions for some [MIT OCW](https://ocw.mit.edu/) courses, during self-study period.
