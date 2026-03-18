@@ -1,1 +1,3 @@
+# MIT 6.1200J - Mathematics for Computer Science (Spring 2024)
+
 This folder contains my problem set solutions to the course MIT 6.1200J (formerly 6.042J), which can be found [here](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/lists/problem-sets/).
